@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="286984e8d4838389cbc0317d7e7e0b12 (1).jpeg" width="600" alt="Profile Icon">
+  <img src="f3de5784-2eef-4c60-9859-ba23152da168-removebg-preview.png" width="600">
 </div>
