@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <font color="#EBCB14"><i>"intoxicate me now, with your lovin now"</i></font>
+  <font color="#89745a"><i>"intoxicate me now, with your lovin now' ,,"</i></font>
 </p>
 
 <p align="center">
